@@ -1,0 +1,6 @@
+{
+  "name": "EndoCare - Cuidado Integral na Endometriose",
+  "description": "Aplicativo para mulheres com Endometriose: monitoramento de sintomas, controle de crises, 50 receitas anti-inflamatórias, dispensa essencial, exercicios e chat de suporte por IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
